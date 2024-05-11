@@ -7,3 +7,6 @@ To launch the jupyter notebook exercise in binder click here [![Binder](https://
 There are two notebooks:
 1. `biostat_python.ipynb`: This is a brief introduction with the background knowledge you need for the exercise.
 2. `ovning0.ipynb`: This is the exercise you should do during the session.
+
+## Jobba med Binder
+![SparaLadda](https://github.com/emilljungberg/intro_biostat_python/assets/3906827/06c9a440-41bd-4fb9-88a1-e1df2059c293)
