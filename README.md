@@ -8,6 +8,8 @@ There are two notebooks:
 1. `biostat_python.ipynb`: This is a brief introduction with the background knowledge you need for the exercise.
 2. `ovning0.ipynb`: This is the exercise you should do during the session.
 
+The detailed instructions for the lab can be found on Canvas.
+
 ## Work with Binder
 Binder is a system for working with jupyter notebooks in the browser without having to install anything locally. After clicking the Binder button above it will take you to a new page which will take a minute or two to load. Next you will see a page with the available notebooks in the left hand sidebar. Go to the notebook you want to look at or work with (see above). This will open a new tab. Here you work through the notebook as usual, either you click the play button to run a cell, or you click shift+enter with the cell highlighted.
 
