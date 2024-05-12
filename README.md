@@ -6,7 +6,7 @@ To launch the jupyter notebook exercise click here  [![Binder](https://mybinder.
 
 There are two notebooks:
 1. `biostat_python.ipynb`: This is a brief introduction with the background knowledge you need for the exercise.
-2. `ovning0.ipynb`: This is the exercise you should do during the session.
+2. `exercise0.ipynb`: This is the exercise you should do during the session.
 
 The detailed instructions for the lab can be found on Canvas.
 
